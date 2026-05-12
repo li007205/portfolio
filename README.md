@@ -7,8 +7,8 @@ https://github.com/li007205/creaturebattle.git
 
 https://github.com/li007205/li007205-Assignment-1-webdev.git
 
-#Overview
+# Overview
 
-#Usage Instructions
+# Usage Instructions
 
-#Installation Instructions
+# Installation Instructions
