@@ -3,6 +3,7 @@
 https://github.com/li007205/BenjaminLi-Assignment-3-webdev-.git <br>
 This project is a game that colors pixel with numbers.
 ### paragraph 1
+The project is a game that allow people color a pixel art. 
 ## Creature Battle
 https://github.com/li007205/creaturebattle.git <br>
 This project is a game simliar to a pokemon-esque style that helps kids learn about sustainability through questions.
