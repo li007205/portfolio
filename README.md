@@ -1,6 +1,6 @@
 # Overview
 ## Color by Numbers
-https://github.com/li007205/BenjaminLi-Assignment-3-webdev-.git /n
+https://github.com/li007205/BenjaminLi-Assignment-3-webdev-.git <br>
 This project is a game that colors pixel with numbers.
 ### paragraph 1
 ## Creature Battle
