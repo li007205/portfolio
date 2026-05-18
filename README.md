@@ -10,7 +10,7 @@ I chose this project because I thought it was interesting puzzle game combining 
 
 ## Creature Battle
 https://github.com/li007205/creaturebattle.git <br>
-This project is a game simliar to a pokemon-esque style that helps kids learn about sustainability through questions. The childrent would learn about energy efficiency, water conservation and resource management. 
+This project is a game simliar to a pokemon-esque style that helps kids learn about sustainability through questions. The children would learn about energy efficiency, water conservation and resource management. The game will give children a chance understand how sustainability can affect them in a positive way. 
 <br><br>
 I chose this project because I could build game about sustainability that could children about it. I wasn't sure how well I could program a game and it was interesting to put what I learned from 230 into it. This is where I was working mostly the logic of game and how damage will be calculated. I had to change how the list of questions and answers had to read through a file. It was probably the most fun I've had and learned the most by applying the knowledge to game with the idea of teaching children about sustainability. 
 
