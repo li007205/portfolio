@@ -11,11 +11,11 @@ I chose this project because I thought it was interesting puzzle game combining 
 https://github.com/li007205/creaturebattle.git <br>
 This project is a game simliar to a pokemon-esque style that helps kids learn about sustainability through questions.
 ### paragraph
-I chose this project because I could build game about sustainability that could children about it. I wasn't sure how well I could program a game and it was interesting to put what I learned from 230 into it. 
+I chose this project because I could build game about sustainability that could children about it. I wasn't sure how well I could program a game and it was interesting to put what I learned from 230 into it. This is where I was working mostly the logic of game and how damage will be calculated. I had to change how the list of questions and answers had to read through a file. It was probably the most fun I've had and learned the most by applying the knowledge to game with the idea of teaching children about sustainability. 
 
 ## Ancient Rome History
 https://github.com/li007205/li007205-Assignment-1-webdev.git <br>
 A basic webpage of Ancient Rome and its histories.
 ### paragraph
-I chose this project because it was the first web page I created and ran. Creating a web page was something I wasn't sure about and how I could approach about it. 
+I chose this project because it was the first web page I created and ran. Creating a web page was something I wasn't sure about and how I could approach about it. It was small enough project that I wouldn't get overwhelmed trying to make a web page. I was able to see how much work has to be done even on a simple web page. There is a lot to learn from working on web development. 
 
